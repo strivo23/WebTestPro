@@ -110,6 +110,3 @@ After a run, open `reports/report.html` for test names, outcomes, durations, and
 - Add accessibility checks and mobile viewport coverage
 - Add API fixtures for larger test environments
 
-## License
-
-No license has been selected yet. Add one before redistributing or reusing the project outside your own portfolio.
